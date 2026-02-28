@@ -1,113 +1,101 @@
-<!-- ████████████████████████████████████████████ HEADER ████████████████████████████████████████████ -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:0a1628,100:0d0d1a&height=180&text=OREO992&fontSize=72&fontColor=00d4ff&fontFamily=VT323&desc=Jeffrey%20%7C%20AI%20Tool%20Builder%20%7C%20Open%20Source&descSize=18&descColor=4488aa&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" />
-</div>
-
-<!-- ████ TYPING ANIMATION ████ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+Building+AI+tools+for+humans...;%3E+Open+Source+%7C+Desktop+Apps+%7C+AI+Plugins;%3E+Creator+of+Open-Cowork+%26+claude-notification;%3E+TypeScript+%7C+JavaScript+%7C+PowerShell_%E2%96%8C" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1208,50:2e1a08,100:1e1208&height=140&text=Jeffrey&fontSize=58&fontColor=f4a261&fontFamily=VT323&desc=%20oreo992%20%C2%B7%20open%20source%20%C2%B7%20ai%20tools&descSize=15&descColor=8b6840&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████ ABOUT ████████████████████████████████████████████ -->
+<!-- Claude Code CLI style panel -->
 ```
-╔══════════════════════════════════════════════════════════╗
-║  PLAYER.EXE          STATUS: ONLINE        VER: 2026.02  ║
-╠══════════════════════════════════════════════════════════╣
-║  NAME    ▸  Jeffrey                                      ║
-║  TAG     ▸  Oreo992                                      ║
-║  CLASS   ▸  AI Tool Builder / Full-Stack Dev             ║
-║  FOCUS   ▸  Developer Tools  ·  Desktop Apps  ·  AI     ║
-║  XP      ▸  ████████████████░░░░  TypeScript             ║
-║           ▸  ████████████░░░░░░░░  JavaScript            ║
-║           ▸  ███████░░░░░░░░░░░░░  PowerShell            ║
-╠══════════════════════════════════════════════════════════╣
-║  MOTTO   ▸  "Build tools that make devs smile"           ║
-╚══════════════════════════════════════════════════════════╝
+╭─ jeffrey@github ──────────────────────────────────────╮
+│                                                       │
+│  > whoami                                             │
+│    Jeffrey · AI Tool Builder · Open Source Dev        │
+│                                                       │
+│  > ls skills/                                         │
+│    TypeScript   JavaScript   PowerShell               │
+│    Node.js      Electron     React                    │
+│                                                       │
+│  > cat projects.txt                                   │
+│    ✓  Open-Cowork       — desktop AI assistant        │
+│    ✓  claude-notification — bark push for devs        │
+│                                                       │
+│  > echo $MOTTO                                        │
+│    "build tools that make devs smile"                 │
+│                                                       │
+╰───────────────────────────────────────────────────────╯
 ```
 
 <br/>
 
-<!-- ████████████████████████████████████████████ TECH STACK ████████████████████████████████████████████ -->
+<!-- Tech Stack -->
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  TECH  STACK              EQUIPPED
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+> ls tech-stack/ --icons
 ```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933&labelColor=0d1117)
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1208?style=flat-square&logo=typescript&logoColor=f4a261)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1208?style=flat-square&logo=javascript&logoColor=e9c46a)
+![PowerShell](https://img.shields.io/badge/PowerShell-1e1208?style=flat-square&logo=powershell&logoColor=f4a261)
+![Node.js](https://img.shields.io/badge/Node.js-1e1208?style=flat-square&logo=node.js&logoColor=e9c46a)
+![Electron](https://img.shields.io/badge/Electron-1e1208?style=flat-square&logo=electron&logoColor=f4a261)
+![React](https://img.shields.io/badge/React-1e1208?style=flat-square&logo=react&logoColor=e9c46a)
+![Git](https://img.shields.io/badge/Git-1e1208?style=flat-square&logo=git&logoColor=f4a261)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1208?style=flat-square&logo=visualstudiocode&logoColor=e9c46a)
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████ STATS ████████████████████████████████████████████ -->
+<!-- Stats -->
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  GAME  STATS              LOADING…
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+> gh stats --username oreo992
 ```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oreo992&show_icons=true&theme=algolia&hide_border=true&count_private=true&icon_color=00d4ff&title_color=00d4ff&text_color=6699aa&bg_color=0d1117&ring_color=00d4ff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreo992&layout=compact&theme=algolia&hide_border=true&title_color=00d4ff&text_color=6699aa&bg_color=0d1117&langs_count=6" />
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=Oreo992&show_icons=true&hide_border=true&count_private=true&icon_color=f4a261&title_color=f4a261&text_color=c9a87a&bg_color=1e1208&ring_color=f4a261" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreo992&layout=compact&hide_border=true&title_color=f4a261&text_color=c9a87a&bg_color=1e1208&langs_count=6" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oreo992&theme=algolia&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideNums=00d4ff&dates=6699aa&currStreakNum=ffffff&sideLabels=6699aa" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oreo992&hide_border=true&background=1e1208&stroke=f4a261&ring=f4a261&fire=e9c46a&currStreakLabel=f4a261&sideNums=f4a261&dates=8b6840&currStreakNum=f4e4c9&sideLabels=8b6840" width="55%" />
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████ PROJECTS ████████████████████████████████████████████ -->
+<!-- Projects -->
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  FEATURED  PROJECTS        [2/6 ★]
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+> gh repo list --pinned
 ```
 
-[![Open-Cowork](https://github-readme-stats.vercel.app/api/pin/?username=Oreo992&repo=Open-Cowork&theme=algolia&hide_border=true&title_color=00d4ff&text_color=6699aa&bg_color=0d1117&icon_color=00d4ff)](https://github.com/Oreo992/Open-Cowork)
-[![claude-notification](https://github-readme-stats.vercel.app/api/pin/?username=Oreo992&repo=claude-notification&theme=algolia&hide_border=true&title_color=00d4ff&text_color=6699aa&bg_color=0d1117&icon_color=00d4ff)](https://github.com/Oreo992/claude-notification)
+[![Open-Cowork](https://github-readme-stats.vercel.app/api/pin/?username=Oreo992&repo=Open-Cowork&hide_border=true&title_color=f4a261&text_color=c9a87a&bg_color=1e1208&icon_color=e9c46a)](https://github.com/Oreo992/Open-Cowork)
+[![claude-notification](https://github-readme-stats.vercel.app/api/pin/?username=Oreo992&repo=claude-notification&hide_border=true&title_color=f4a261&text_color=c9a87a&bg_color=1e1208&icon_color=e9c46a)](https://github.com/Oreo992/claude-notification)
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████ CONTACT ████████████████████████████████████████████ -->
+<!-- Contact -->
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  CONNECT                  [PRESS A]
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+> cat contact.md
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Oreo992-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117&color=00d4ff)](https://github.com/Oreo992)
-[![Email](https://img.shields.io/badge/Email-2445426457%40qq.com-0d1117?style=flat-square&logo=tencentqq&logoColor=ffffff&labelColor=0d1117&color=00d4ff)](mailto:2445426457@qq.com)
+[![GitHub](https://img.shields.io/badge/github-oreo992-1e1208?style=flat-square&logo=github&logoColor=f4a261)](https://github.com/Oreo992)
+[![QQ Mail](https://img.shields.io/badge/email-2445426457@qq.com-1e1208?style=flat-square&logo=tencentqq&logoColor=f4a261)](mailto:2445426457@qq.com)
 
 </div>
 
 <br/>
 
-<!-- ████ FOOTER ████ -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:0a1628,100:0d0d1a&height=40&section=footer&reversal=true&stroke=00d4ff&strokeWidth=1" width="100%" />
-  <br/>
-  <sub>
-    <code>[ GAME OVER? NO. PRESS START TO CONTINUE ]</code>
-  </sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1208,50:2e1a08,100:1e1208&height=80&section=footer" width="100%" />
+  <sub><code>· esc to quit · ctrl+c to stop · made with ♥ ·</code></sub>
 </div>
