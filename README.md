@@ -9,72 +9,82 @@
  ╚════╝ ╚══════╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝
 ```
 
+![](https://img.shields.io/badge/LLM_Engineer-深圳-f4a261?style=flat-square&labelColor=2b1a0a)
+![](https://img.shields.io/badge/🏆_WaytoAGI-深圳场冠军-e9c46a?style=flat-square&labelColor=2b1a0a)
 ![](https://img.shields.io/badge/AI_Companion_Builder-f4a261?style=flat-square&labelColor=2b1a0a)
-![](https://img.shields.io/badge/Memory_·_Prompt_·_Agent-e9c46a?style=flat-square&labelColor=2b1a0a)
-![](https://img.shields.io/badge/Open_Source-c9a87a?style=flat-square&labelColor=2b1a0a)
 
 </div>
 
----
+<br/>
 
-```
-╭─ oreo992@github ─────────────────────────────────────────╮
-│                                                          │
-│   > whoami                                               │
-│     building AI companions that truly understand you     │
-│                                                          │
-│   > cat interests.txt                                    │
-│     · Memory Systems    how AI remembers and grows       │
-│     · Prompt Engineering  the art of talking to AI       │
-│     · Agent Architecture  AI that thinks and acts        │
-│                                                          │
-│   > echo $BELIEF                                         │
-│     " the best AI feels less like a tool,               │
-│       and more like a presence "                         │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+> 我在研究一件事：**如何让 AI 真正拥有记忆。**
+>
+> 不是简单的上下文窗口，而是跨越时间的、有温度的记忆 ——
+> 这是 AI 陪伴从「有用」到「有意义」的关键一步。
+
+<br/>
 
 ---
 
-**Tech Stack**
+**Skills**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+```yaml
+LLM:
+  - Prompt Engineering · RAG · Tool Calling · MCP
+  - Agent Architecture · 模型微调 & 量化 & 部署
 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+AI Application:
+  - 长期记忆系统 · 情感分析 · 意图识别
+  - 多模型并行流式 · 信息提取
+
+Stack:
+  - Python · FastAPI · 异步服务
+  - Vue 3 · TypeScript · Electron
+  - Claude Code · Cursor
+```
 
 ---
 
-**Featured Projects**
+**Projects**
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  ★  Open-Cowork                                         │
-│     AI-powered desktop companion for developers         │
-│     Built on Claude · TypeScript · Electron             │
-│     github.com/Oreo992/Open-Cowork                      │
-└─────────────────────────────────────────────────────────┘
+┌─ Agent 控制中台 ────────────────────────────────────────────┐
+│  企业级 AI 中台，统一 Agent Runtime、记忆管理、工具编排      │
+│  · 四源并行工具召回（Dense+BM25+行为+上下文预测）            │
+│  · 基于 MemMachine 的分离记忆架构（语义画像 / 情景事件）     │
+│  · 声明式 AgentConfig + Block 式 Prompt 组装引擎             │
+│  FastAPI · Vue 3 · MCP · VectorDB                           │
+└─────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────┐
-│  ★  claude-notification                                 │
-│     Bark push notifications for Claude Code on Windows  │
-│     PowerShell · 5 stars                                │
-│     github.com/Oreo992/claude-notification              │
-└─────────────────────────────────────────────────────────┘
+┌─ AI 占星师 ─────────────────────────────────────────────────┐
+│  融合东西方玄学 × AI 的智能占星应用                          │
+│  · skyfield 精准天体位置计算 · 完整星盘生成                  │
+│  · 塔罗 · 八字 · 梦境 · 易经五大 AI 占卜能力                │
+│  Python · skyfield · LLM                                    │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Open-Cowork ───────────────────────────────── ★ 开源 ──────┐
+│  桌面端 AI 协作助手，基于 Claude 构建                        │
+│  github.com/Oreo992/Open-Cowork                             │
+│  TypeScript · Electron                                      │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+**Contribution**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oreo992/Oreo992/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oreo992/Oreo992/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Oreo992/Oreo992/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github.com/Oreo992-2b1a0a?style=flat-square&logo=github&logoColor=f4a261)](https://github.com/Oreo992)
-[![Email](https://img.shields.io/badge/2445426457@qq.com-2b1a0a?style=flat-square&logo=tencentqq&logoColor=f4a261)](mailto:2445426457@qq.com)
+[![Email](https://img.shields.io/badge/email-2b1a0a?style=flat-square&logo=tencentqq&logoColor=f4a261)](mailto:2445426457@qq.com)
 
 </div>
