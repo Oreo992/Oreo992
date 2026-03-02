@@ -9,8 +9,8 @@
  ╚════╝ ╚══════╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝
 ```
 
-[![](https://img.shields.io/badge/LLM_Engineer-深圳-f4a261?style=flat-square&labelColor=2b1a0a)](https://github.com/Oreo992)
-[![](https://img.shields.io/badge/🏆_WaytoAGI-深圳场冠军-e9c46a?style=flat-square&labelColor=2b1a0a)](https://github.com/Oreo992)
+[![](https://img.shields.io/badge/Location-深圳-f4a261?style=flat-square&labelColor=2b1a0a)](https://github.com/Oreo992)
+
 
 </div>
 
@@ -23,6 +23,26 @@
 📍  深圳
 ```
 
+
+
+## Skills
+
+```
+LLM     Prompt Engineering · RAG · Tool Calling · MCP · Agents · 微调/量化/部署
+AI App  长期记忆 · 情感分析 · 意图识别 · 多模型并行流式
+Stack   Python · FastAPI · Vue 3 · TypeScript · Electron
+Tools   Claude Code · Cursor
+```
+
+
+
+## AI Wrapped
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Oreo992/Oreo992/main/stats.svg" alt="AI Wrapped Stats" width="100%" />
+</div>
+
+---
 
 ## Contribution
 
