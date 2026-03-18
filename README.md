@@ -28,7 +28,7 @@
 ## Skills
 
 ```
-LLM     Prompt Engineering · RAG · Tool Calling · MCP · Agents · 微调/量化/部署
+LLM     Prompt Engineering · RAG · Tool Calling · MCP · Agents · 微调/部署
 AI App  长期记忆 · 情感分析 · 意图识别 · 多模型并行流式
 Stack   Python · FastAPI · Vue 3 · TypeScript · Electron
 Tools   Claude Code · Cursor
