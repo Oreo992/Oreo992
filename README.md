@@ -1,5 +1,3 @@
-<h1 align="center">Jeffrey</h1>
-
 <h3 align="center">
   <em>AI should amplify what makes us uniquely human</em>
 </h3>
@@ -10,19 +8,12 @@
 
 <br/>
 
-<h3 align="center">⚡ Focus</h3>
+<h3 align="center">🛠️ How I Harness AI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-Agents-f4a261?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Long--term-Memory-f4a261?style=for-the-badge&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Companionship-f4a261?style=for-the-badge&logo=heart&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  Multi-agent orchestration  •  Persistent memory architecture  •  Emotional intelligence design
+  <br/>
+  Context-aware systems  •  Human-centered automation
 </p>
 
 <br/>
