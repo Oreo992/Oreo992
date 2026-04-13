@@ -8,12 +8,13 @@
 
 <br/>
 
-<h3 align="center">🛠️ How I Harness AI</h3>
-
 <p align="center">
-  Multi-agent orchestration  •  Persistent memory architecture  •  Emotional intelligence design
+  <img src="https://img.shields.io/badge/Multi--agent_orchestration-202020?style=flat&labelColor=202020" />
+  <img src="https://img.shields.io/badge/Persistent_memory_architecture-202020?style=flat&labelColor=202020" />
+  <img src="https://img.shields.io/badge/Emotional_intelligence_design-202020?style=flat&labelColor=202020" />
   <br/>
-  Context-aware systems  •  Human-centered automation
+  <img src="https://img.shields.io/badge/Context--aware_systems-202020?style=flat&labelColor=202020" />
+  <img src="https://img.shields.io/badge/Human--centered_automation-202020?style=flat&labelColor=202020" />
 </p>
 
 <br/>
