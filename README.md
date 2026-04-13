@@ -28,11 +28,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oreo992&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a261&icon_color=f4a261" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Oreo992&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a261&icon_color=f4a261" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreo992&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a261" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Oreo992&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a261" />
 </p>
 
 <br/>
